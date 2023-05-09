@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\admin\Desktop\VS2022\VS2022_CPP\VS2022_CPP\main.cpp(150,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\VS2022\VS2022_CPP\VS2022_CPP\main.cpp(150,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  VS2022_CPP.vcxproj -> C:\Users\admin\Desktop\VS2022\VS2022_CPP\x64\Debug\VS2022_CPP.exe
